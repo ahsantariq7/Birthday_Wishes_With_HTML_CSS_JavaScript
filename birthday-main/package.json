@@ -1,0 +1,25 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "Birthday greetings..",
+  "main": " ",
+  "scripts": {
+    "server-node": "http-server -p 8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "Birthday"
+  ],
+  "author": "Ahsan Tariq",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "#"
+  },
+  "homepage": "",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
